@@ -1,4 +1,3 @@
-# 💫 About Me:
 Pratik Nayak<br><br>Student at MS Ramaiah Institute of Technology with strong foundations in Python and a growing focus on Artificial Intelligence, Robotics, and Intelligent Automation systems. My work centers on designing solutions that reduce manual effort and improve operational efficiency through AI-driven workflows and automation.<br>I am particularly interested in building practical systems that combine AI agents, workflow automation, computer vision, and robotics to solve real-world problems.<br><br>Current Work<br><br>- Developing AI agents and automation workflows using Python and n8n<br>- Building a 14 DOF bipedal humanoid robot (TITAN-X1) with inverse kinematics and IMU-based stabilization<br>- Exploring computer vision applications using OpenCV and MediaPipe<br><br>Certifications<br><br>- Oracle Cloud Infrastructure AI Foundation Associate<br>- IBM Generative AI: Introduction and Applications<br>- Google Kaggle AI Agents Intensive Course
 
 
