@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+<img src="coding_cat.png" width="500"/>
 
 </div>
 
