@@ -2,6 +2,14 @@
 
 ###
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+
+</div>
+
+###
+
 <h3 align="center">Hi, I'm Pratik Nayak</h3>
 
 <p align="center">
@@ -13,25 +21,33 @@ I am particularly interested in building practical systems that combine AI agent
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"/>
+  <img src="https://skillicons.dev/icons?i=java" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"/>
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="google cloud logo"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
 </div>
 
 ###
@@ -72,6 +88,18 @@ I am particularly interested in building practical systems that combine AI agent
 - Developing AI agents and automation workflows using **Python and n8n**  
 - Building a **14 DOF bipedal humanoid robot (TITAN-X1)** with inverse kinematics and IMU stabilization  
 - Exploring **computer vision applications using OpenCV and MediaPipe**
+
+###
+
+<h3>AI & Automation Focus</h3>
+
+- AI Agents
+- Workflow Automation
+- Artificial Intelligence Systems
+- Computer Vision
+- Robotics
+- Intelligent Automation
+- AI Driven Workflows
 
 ###
 
