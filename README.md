@@ -2,7 +2,7 @@
 <h3 align="center">AI • Automation • Robotics</h3>
 
 <div align="center">
-<img src="coding_cat_4.png" width="700"/>
+<img src="coding_cat_4.png" width="400"/>
 </div>
 
 <p align="center">
