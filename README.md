@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Pratik Nayak</h1>
+<h1 align="center">Hi, I'm Pratik Nayak</h1>
 <h3 align="center">AI • Automation • Robotics</h3>
 
 <div align="center">
